@@ -1,3 +1,4 @@
+
 name: github pages
 
 on:
@@ -20,7 +21,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL=https://mauget.github.io/GitHubPages
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
