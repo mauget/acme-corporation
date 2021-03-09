@@ -5,6 +5,7 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
