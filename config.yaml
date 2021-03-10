@@ -1,3 +1,4 @@
+baseURL: http://example.org/                  # Hosting location.
 languageCode: en-us                           # Locale
 title: Acme Corporation                       # Name of the website
 theme: universal                              # Name of the theme
