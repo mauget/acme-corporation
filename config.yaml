@@ -1,4 +1,4 @@
-baseURL: /                  # Hosting location.
+baseURL: /    			              # Hosting location.
 languageCode: en-us                           # Locale
 title: Acme Corporation                       # Name of the website
 theme: Eclectic				      # Name of theme
